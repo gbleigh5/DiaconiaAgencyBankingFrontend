@@ -1,0 +1,9 @@
+{
+  "name": "Diaconia Agency Banking",
+  "short_name": "AgencyBanking",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": []
+}
